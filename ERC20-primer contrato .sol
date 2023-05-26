@@ -12,7 +12,6 @@ contract MyContract is ERC20 {
 }
 
 //Otra alternativa
-
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 import "@openzeppelin...";
